@@ -1,6 +1,6 @@
 <Project
     Version="2"
-    Name="enkj-daghb"
+    Name="enkj-msfs-2020"
     FolderName="Packages">
     <OutputDirectory>.</OutputDirectory>
         <TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
