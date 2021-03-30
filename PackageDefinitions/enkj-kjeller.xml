@@ -1,0 +1,25 @@
+<AssetPackage
+    Name="enkj-kjeller"
+    Version="0.1">
+    <ItemSettings>
+        <ContentType>SCENERY</ContentType>
+            <Title>Kjeller airport</Title>
+                <Manufacturer></Manufacturer>
+                    <Creator>daghb</Creator>
+                    </ItemSettings>
+                    <Flags>
+                        <VisibleInStore>false</VisibleInStore>
+                            <CanBeReferenced>false</CanBeReferenced>
+                            </Flags>
+                            <AssetGroups>
+                                <AssetGroup
+                                    Name="enkj-airport">
+                                    <Type>BGL</Type>
+                                        <Flags>
+                                            <FSXCompatibility>false</FSXCompatibility>
+                                            </Flags>
+                                            <AssetDir>PackageSources\data\</AssetDir>
+                                                <OutputDir>scenery\world\scenery</OutputDir>
+                                                </AssetGroup>
+                                            </AssetGroups>
+                                        </AssetPackage>
