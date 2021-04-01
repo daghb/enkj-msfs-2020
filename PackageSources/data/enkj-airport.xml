@@ -195,9 +195,6 @@
 			<Coloration red="112" green="112" blue="112" alpha="255" override="TRUE"/>
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="TRUE"/>
 			<Lights center="NONE" edge="NONE"/>
-			<OffsetThreshold end="PRIMARY" length="219.710007"/>
-			<OffsetThreshold end="SECONDARY" length="73.830002"/>
-			<BlastPad end="PRIMARY" length="0.000000"/>
 			<RunwayStart end="PRIMARY" lat="59.97218560427430" lon="11.03083580732350" alt="106.52700000000000" heading="122.73139953613281"/>
 			<RunwayStart end="SECONDARY" lat="59.96602423489090" lon="11.04998856782910" alt="106.52700000000000" heading="302.73141479492188"/>
 		</Runway>
