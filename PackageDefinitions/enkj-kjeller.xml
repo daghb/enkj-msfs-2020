@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\enkj-kjeller\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\enkj-kjeller</OutputDir>
+			<AssetDir>PackageDefinitions\enkj-kjeller\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\enkj-kjeller\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="enkj-airport">
 			<Type>BGL</Type>
@@ -31,8 +31,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\materials</AssetDir>
-			<OutputDir>MaterialLibs+enkj-materials\</OutputDir>
+			<AssetDir>PackageSources\materials\</AssetDir>
+			<OutputDir>MaterialLibs\enkj-materials\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
