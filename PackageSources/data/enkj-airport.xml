@@ -1149,11 +1149,11 @@
 		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling04_B_Little-->
-	<SceneryObject displayName="Fence_Grilling04_B_Little (copy)" lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling04_B_Little-->
-	<SceneryObject lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling04_B_Little (copy)" lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling04_B_Little-->
@@ -1413,32 +1413,32 @@
 		<LibraryObject name="{E2316095-4CF1-4AC1-A7B0-8E7065FC77B4}" scale="1.410000"/>
 	</SceneryObject>
 	<Airport state="NO STATE" city="Kjeller" name="Kjeller AB" ident="ENKJ" lat="59.96944438666110" lon="11.03888869285580" alt="106.52700000000000" magvar="0.000000" trafficScalar="0.700000" airportTestRadius="5000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
-		<TaxiwayPoint groupIndex="186" index="13" type="HOLD_SHORT" orientation="FORWARD" lat="59.96746966802735" lon="11.04792592917700"/>
-		<TaxiwayPoint groupIndex="259" index="36" type="HOLD_SHORT" orientation="FORWARD" lat="59.97100315764722" lon="11.03845247891848"/>
-		<TaxiwayPoint groupIndex="279" index="6" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="59.97068323194980" lon="11.03802055120470"/>
+		<TaxiwayPoint groupIndex="270" index="0" type="NORMAL" orientation="FORWARD" lat="59.96587186515840" lon="11.05044836045810"/>
+		<TaxiwayPoint groupIndex="276" index="1" type="NORMAL" orientation="FORWARD" lat="59.97233689857580" lon="11.03038532518090"/>
 		<TaxiwayPoint groupIndex="277" index="2" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="59.97181747108700" lon="11.02951124310490"/>
 		<TaxiwayPoint groupIndex="278" index="3" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="59.97295271605250" lon="11.03096365928650"/>
-		<TaxiwayPoint groupIndex="270" index="0" type="NORMAL" orientation="FORWARD" lat="59.96587186515840" lon="11.05044836045810"/>
-		<TaxiwayPoint displayName="Link runway A East" groupIndex="271" index="9" type="NORMAL" orientation="FORWARD" lat="59.96710431218057" lon="11.04662276040411"/>
-		<TaxiwayPoint groupIndex="185" index="14" type="NORMAL" orientation="FORWARD" lat="59.96720561714085" lon="11.04678198068723"/>
-		<TaxiwayPoint displayName="Link runway A West" groupIndex="272" index="8" type="NORMAL" orientation="FORWARD" lat="59.96722159235985" lon="11.04625557740315"/>
-		<TaxiwayPoint groupIndex="184" index="12" type="NORMAL" orientation="FORWARD" lat="59.96760063612449" lon="11.04844334723085"/>
-		<TaxiwayPoint displayName="Link runway B East" groupIndex="274" index="21" type="NORMAL" orientation="FORWARD" lat="59.96761815310256" lon="11.04503834022323"/>
-		<TaxiwayPoint displayName="Taxi B link" groupIndex="172" index="17" type="NORMAL" orientation="FORWARD" lat="59.96767552696674" lon="11.04512239934702"/>
-		<TaxiwayPoint displayName="Link runway B West" groupIndex="280" index="20" type="NORMAL" orientation="FORWARD" lat="59.96774066529229" lon="11.04465072210312"/>
-		<TaxiwayPoint groupIndex="187" index="11" type="NORMAL" orientation="FORWARD" lat="59.96775776362561" lon="11.04895126908227"/>
-		<TaxiwayPoint groupIndex="173" index="22" type="NORMAL" orientation="FORWARD" lat="59.96778209328597" lon="11.04531546889596"/>
-		<TaxiwayPoint groupIndex="188" index="5" type="NORMAL" orientation="FORWARD" lat="59.96784778153310" lon="11.04924488537524"/>
-		<TaxiwayPoint groupIndex="174" index="15" type="NORMAL" orientation="FORWARD" lat="59.96787924288102" lon="11.04550763138533"/>
-		<TaxiwayPoint groupIndex="176" index="19" type="NORMAL" orientation="FORWARD" lat="59.96796275427384" lon="11.04569425122384"/>
-		<TaxiwayPoint groupIndex="189" index="10" type="NORMAL" orientation="FORWARD" lat="59.96805720536189" lon="11.04988536038078"/>
 		<TaxiwayPoint groupIndex="177" index="4" type="NORMAL" orientation="FORWARD" lat="59.96828184513664" lon="11.04658027672263"/>
-		<TaxiwayPoint groupIndex="171" index="16" type="NORMAL" orientation="FORWARD" lat="59.96866125404714" lon="11.04756900306726"/>
+		<TaxiwayPoint groupIndex="188" index="5" type="NORMAL" orientation="FORWARD" lat="59.96784778153310" lon="11.04924488537524"/>
+		<TaxiwayPoint groupIndex="279" index="6" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="59.97068323194980" lon="11.03802055120470"/>
 		<TaxiwayPoint groupIndex="273" index="7" type="NORMAL" orientation="FORWARD" lat="59.96910438186710" lon="11.04041684281950"/>
+		<TaxiwayPoint displayName="Link runway A West" groupIndex="272" index="8" type="NORMAL" orientation="FORWARD" lat="59.96722159235985" lon="11.04625557740315"/>
+		<TaxiwayPoint displayName="Link runway A East" groupIndex="271" index="9" type="NORMAL" orientation="FORWARD" lat="59.96710431218057" lon="11.04662276040411"/>
+		<TaxiwayPoint groupIndex="189" index="10" type="NORMAL" orientation="FORWARD" lat="59.96805720536189" lon="11.04988536038078"/>
+		<TaxiwayPoint groupIndex="187" index="11" type="NORMAL" orientation="FORWARD" lat="59.96775776362561" lon="11.04895126908227"/>
+		<TaxiwayPoint groupIndex="184" index="12" type="NORMAL" orientation="FORWARD" lat="59.96760063612449" lon="11.04844334723085"/>
+		<TaxiwayPoint groupIndex="186" index="13" type="HOLD_SHORT" orientation="FORWARD" lat="59.96746966802735" lon="11.04792592917700"/>
+		<TaxiwayPoint groupIndex="185" index="14" type="NORMAL" orientation="FORWARD" lat="59.96720561714085" lon="11.04678198068723"/>
+		<TaxiwayPoint groupIndex="174" index="15" type="NORMAL" orientation="FORWARD" lat="59.96787924288102" lon="11.04550763138533"/>
+		<TaxiwayPoint groupIndex="171" index="16" type="NORMAL" orientation="FORWARD" lat="59.96866125404714" lon="11.04756900306726"/>
+		<TaxiwayPoint displayName="Taxi B link" groupIndex="172" index="17" type="NORMAL" orientation="FORWARD" lat="59.96767552696674" lon="11.04512239934702"/>
+		<TaxiwayPoint groupIndex="176" index="19" type="NORMAL" orientation="FORWARD" lat="59.96796275427384" lon="11.04569425122384"/>
+		<TaxiwayPoint displayName="Link runway B West" groupIndex="280" index="20" type="NORMAL" orientation="FORWARD" lat="59.96774066529229" lon="11.04465072210312"/>
+		<TaxiwayPoint displayName="Link runway B East" groupIndex="274" index="21" type="NORMAL" orientation="FORWARD" lat="59.96761815310256" lon="11.04503834022323"/>
+		<TaxiwayPoint groupIndex="173" index="22" type="NORMAL" orientation="FORWARD" lat="59.96778209328597" lon="11.04531546889596"/>
+		<TaxiwayPoint groupIndex="259" index="36" type="HOLD_SHORT" orientation="FORWARD" lat="59.97100315764722" lon="11.03845247891848"/>
 		<TaxiwayPoint groupIndex="275" index="37" type="NORMAL" orientation="FORWARD" lat="59.97011236753838" lon="11.03730565439247"/>
-		<TaxiwayPoint groupIndex="276" index="1" type="NORMAL" orientation="FORWARD" lat="59.97233689857580" lon="11.03038532518090"/>
+		<TaxiwayParking groupIndex="138" index="18" type="RAMP_GA_SMALL" lat="59.97136685590078" lon="11.02843473575765" heading="97.902145" radius="5.000000" name="S_PARKING" number="31" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="214" index="26" type="FUEL" lat="59.96817925517256" lon="11.04749497904706" heading="321.257599" radius="15.000000" name="NONE" number="11" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking groupIndex="141" index="34" type="RAMP_GA_SMALL" lat="59.96937273896092" lon="11.04875234096700" heading="234.210510" radius="5.000000" name="PARKING" number="10" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="146" index="27" type="RAMP_GA_SMALL" lat="59.96771303584973" lon="11.04940966957338" heading="328.846893" radius="5.000000" name="PARKING" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="145" index="28" type="RAMP_GA_SMALL" lat="59.96762160009292" lon="11.04913530809478" heading="328.846893" radius="5.000000" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="137" index="29" type="RAMP_GA_SMALL" lat="59.96752745901833" lon="11.04884354836822" heading="328.846893" radius="5.000000" name="PARKING" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -1446,9 +1446,9 @@
 		<TaxiwayParking groupIndex="143" index="31" type="RAMP_GA_SMALL" lat="59.96810520731881" lon="11.05075965505627" heading="234.210510" radius="5.000000" name="PARKING" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="140" index="32" type="RAMP_GA_SMALL" lat="59.96876430672428" lon="11.04985804084893" heading="234.210510" radius="5.000000" name="PARKING" number="8" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="142" index="33" type="RAMP_GA_SMALL" lat="59.96898431136842" lon="11.04935824381780" heading="234.210510" radius="5.000000" name="PARKING" number="9" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking groupIndex="138" index="18" type="RAMP_GA_SMALL" lat="59.97136685590078" lon="11.02843473575765" heading="97.902145" radius="5.000000" name="S_PARKING" number="31" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking groupIndex="139" index="38" type="RAMP_GA_SMALL" lat="59.97121420161422" lon="11.02838566190380" heading="97.902145" radius="5.000000" name="S_PARKING" number="32" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking groupIndex="141" index="34" type="RAMP_GA_SMALL" lat="59.96937273896092" lon="11.04875234096700" heading="234.210510" radius="5.000000" name="PARKING" number="10" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="260" index="35" type="RAMP_MIL_COMBAT" lat="59.97099943070967" lon="11.03880024565027" heading="180.000000" radius="15.000000" name="NONE" number="21" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking groupIndex="139" index="38" type="RAMP_GA_SMALL" lat="59.97121420161422" lon="11.02838566190380" heading="97.902145" radius="5.000000" name="S_PARKING" number="32" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<TaxiName index="1" name="A"/>
 		<TaxiName index="2" name="B"/>
