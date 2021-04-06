@@ -1,25 +1,39 @@
-<AssetPackage
-    Name="enkj-kjeller"
-    Version="0.1">
-    <ItemSettings>
-        <ContentType>SCENERY</ContentType>
-            <Title>Kjeller airport</Title>
-                <Manufacturer></Manufacturer>
-                    <Creator>several</Creator>
-                    </ItemSettings>
-                    <Flags>
-                        <VisibleInStore>false</VisibleInStore>
-                            <CanBeReferenced>false</CanBeReferenced>
-                            </Flags>
-                            <AssetGroups>
-                                <AssetGroup
-                                    Name="enkj-airport">
-                                    <Type>BGL</Type>
-                                        <Flags>
-                                            <FSXCompatibility>false</FSXCompatibility>
-                                            </Flags>
-                                            <AssetDir>PackageSources\data\</AssetDir>
-                                                <OutputDir>scenery\world\scenery</OutputDir>
-                                                </AssetGroup>
-                                            </AssetGroups>
-                                        </AssetPackage>
+<AssetPackage Name="enkj-kjeller" Version="0.1.48">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Kjeller airport</Title>
+		<Manufacturer/>
+		<Creator>several</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\enkj-kjeller\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\enkj-kjeller</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enkj-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\world\scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enkj-materials">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials</AssetDir>
+			<OutputDir>MaterialLibs+enkj-materials\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
