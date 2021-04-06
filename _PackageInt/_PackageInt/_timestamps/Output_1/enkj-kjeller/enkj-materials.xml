@@ -11,16 +11,21 @@
 	<Entry Path="Textures\crack-3.png.FLAGS" Timestamp="13262178844"/>
 	<Entry Path="borad-yellow-stripe.material" Timestamp="13262110046"/>
 	<Entry Path="Textures\helipad-thin-yellow-h.png" Timestamp="13262111653"/>
+	<Entry Path="Textures\rectange-with-white-stripes.png" Timestamp="13262205749"/>
 	<Entry Path="Textures\crack-1.png.FLAGS" Timestamp="13262181153"/>
 	<Entry Path="enkj-crack-6.material" Timestamp="13262178984"/>
 	<Entry Path="Textures\helipad-yellow-circle.png.FLAGS" Timestamp="13262110710"/>
+	<Entry Path="Textures\rectange-with-white-stripes.png.FLAGS" Timestamp="13262205900"/>
+	<Entry Path="circle-white-stripes.material" Timestamp="13262205924"/>
 	<Entry Path="Textures\crack-3.png" Timestamp="13262178676"/>
 	<Entry Path="Textures\crack-4.png" Timestamp="13262178687"/>
+	<Entry Path="rectangle-white-stripes.material" Timestamp="13262205902"/>
 	<Entry Path="Textures\helipad-yellow-circle.png" Timestamp="13262110708"/>
 	<Entry Path="Textures\crack-4.png.FLAGS" Timestamp="13262178944"/>
 	<Entry Path="Textures\broad-yellow-square.png.FLAGS" Timestamp="13262179828"/>
 	<Entry Path="enkj-crack-5.material" Timestamp="13262178964"/>
 	<Entry Path="Textures\broad-yellow-line.png" Timestamp="13262109168"/>
+	<Entry Path="Textures\circle-with-white-stripes.png.FLAGS" Timestamp="13262205919"/>
 	<Entry Path="helipad-thin-yellow-h.material" Timestamp="13262111790"/>
 	<Entry Path="Textures\broad-yellow-square.png" Timestamp="13262170879"/>
 	<Entry Path="Textures\crack-2.png.FLAGS" Timestamp="13262181173"/>
@@ -28,6 +33,7 @@
 	<Entry Path="Textures\crack-1.png" Timestamp="13262178711"/>
 	<Entry Path="enkj-crack-2.material" Timestamp="13262181175"/>
 	<Entry Path="Textures\crack-2.png" Timestamp="13262178665"/>
+	<Entry Path="Textures\circle-with-white-stripes.png" Timestamp="13262205796"/>
 	<Entry Path="enkj-crack-4.material" Timestamp="13262178946"/>
 </Timestamps>
 
