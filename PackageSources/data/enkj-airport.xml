@@ -1149,11 +1149,11 @@
 		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling04_B_Little-->
-	<SceneryObject lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fence_Grilling04_B_Little (copy)" lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling04_B_Little-->
-	<SceneryObject displayName="Fence_Grilling04_B_Little (copy)" lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="59.97320371398911" lon="11.03028528361216" alt="0.00000000000000" pitch="0.000492" bank="-0.000492" heading="16.804963" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{4914945C-3497-4F39-8ED2-13DD97B3A6A4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling04_B_Little-->
@@ -1421,7 +1421,7 @@
 		<TaxiwayPoint groupIndex="188" index="5" type="NORMAL" orientation="FORWARD" lat="59.96784778153310" lon="11.04924488537524"/>
 		<TaxiwayPoint groupIndex="279" index="6" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="59.97068323194980" lon="11.03802055120470"/>
 		<TaxiwayPoint groupIndex="273" index="7" type="NORMAL" orientation="FORWARD" lat="59.96910438186710" lon="11.04041684281950"/>
-		<TaxiwayPoint displayName="Link runway A West" groupIndex="272" index="8" type="NORMAL" orientation="FORWARD" lat="59.96722159235985" lon="11.04625557740315"/>
+		<TaxiwayPoint displayName="Link runway A West" groupIndex="272" index="8" type="NORMAL" orientation="FORWARD" lat="59.96722159235788" lon="11.04625557757780"/>
 		<TaxiwayPoint displayName="Link runway A East" groupIndex="271" index="9" type="NORMAL" orientation="FORWARD" lat="59.96710431218057" lon="11.04662276040411"/>
 		<TaxiwayPoint groupIndex="189" index="10" type="NORMAL" orientation="FORWARD" lat="59.96805720536189" lon="11.04988536038078"/>
 		<TaxiwayPoint groupIndex="187" index="11" type="NORMAL" orientation="FORWARD" lat="59.96775776362561" lon="11.04895126908227"/>
@@ -1429,13 +1429,13 @@
 		<TaxiwayPoint groupIndex="186" index="13" type="HOLD_SHORT" orientation="FORWARD" lat="59.96746966802735" lon="11.04792592917700"/>
 		<TaxiwayPoint groupIndex="185" index="14" type="NORMAL" orientation="FORWARD" lat="59.96720561714085" lon="11.04678198068723"/>
 		<TaxiwayPoint groupIndex="174" index="15" type="NORMAL" orientation="FORWARD" lat="59.96787924288102" lon="11.04550763138533"/>
-		<TaxiwayPoint groupIndex="171" index="16" type="NORMAL" orientation="FORWARD" lat="59.96866125404714" lon="11.04756900306726"/>
+		<TaxiwayPoint groupIndex="171" index="16" type="NORMAL" orientation="FORWARD" lat="59.96865996632948" lon="11.04757224424109"/>
 		<TaxiwayPoint displayName="Taxi B link" groupIndex="172" index="17" type="NORMAL" orientation="FORWARD" lat="59.96767552696674" lon="11.04512239934702"/>
 		<TaxiwayPoint groupIndex="176" index="19" type="NORMAL" orientation="FORWARD" lat="59.96796275427384" lon="11.04569425122384"/>
 		<TaxiwayPoint displayName="Link runway B West" groupIndex="280" index="20" type="NORMAL" orientation="FORWARD" lat="59.96774066529229" lon="11.04465072210312"/>
 		<TaxiwayPoint displayName="Link runway B East" groupIndex="274" index="21" type="NORMAL" orientation="FORWARD" lat="59.96761815310256" lon="11.04503834022323"/>
 		<TaxiwayPoint groupIndex="173" index="22" type="NORMAL" orientation="FORWARD" lat="59.96778209328597" lon="11.04531546889596"/>
-		<TaxiwayPoint groupIndex="259" index="36" type="HOLD_SHORT" orientation="FORWARD" lat="59.97100315764722" lon="11.03845247891848"/>
+		<TaxiwayPoint groupIndex="259" index="36" type="NORMAL" orientation="FORWARD" lat="59.97100315764722" lon="11.03845247891848"/>
 		<TaxiwayPoint groupIndex="275" index="37" type="NORMAL" orientation="FORWARD" lat="59.97011236753838" lon="11.03730565439247"/>
 		<TaxiwayParking groupIndex="138" index="18" type="RAMP_GA_SMALL" lat="59.97136685590078" lon="11.02843473575765" heading="97.902145" radius="5.000000" name="S_PARKING" number="31" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking groupIndex="214" index="26" type="FUEL" lat="59.96817925517256" lon="11.04749497904706" heading="321.257599" radius="15.000000" name="NONE" number="11" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -2066,8 +2066,8 @@
 				<Vertex lat="59.97077409178020" lon="11.04278951883320"/>
 				<Vertex lat="59.97080493718390" lon="11.04264691472050"/>
 			</Apron>
-			<Apron groupIndex="95" surface="{043E13A1-758B-43C9-B4D2-EEB33E597935}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="10.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
-				<Coloration red="35" green="72" blue="49" alpha="255" override="TRUE"/>
+			<Apron groupIndex="95" surface="{7BFBB0B3-69B6-412A-A316-AC50CAED3798}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="10.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="34" green="81" blue="46" alpha="255" override="TRUE"/>
 				<Vertex lat="59.97084864671828" lon="11.03132688827673"/>
 				<Vertex lat="59.97076782288948" lon="11.03126039697070"/>
 				<Vertex lat="59.97075211735526" lon="11.03118165043192"/>
@@ -3495,65 +3495,65 @@
 			</Apron>
 		</Aprons>
 		<PaintedElements>
-			<PaintedLine displayName="Arrow main" groupIndex="112" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine displayName="Arrow main" groupIndex="112" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96572453266014" lon="11.05090503542767"/>
 				<Vertex lat="59.96558608671434" lon="11.05133290566592"/>
 			</PaintedLine>
-			<PaintedLine displayName="Arrow left" groupIndex="114" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine displayName="Arrow left" groupIndex="114" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96572407979526" lon="11.05090615128503"/>
 				<Vertex lat="59.96567566955382" lon="11.05100335372865"/>
 			</PaintedLine>
-			<PaintedLine displayName="Arrow right" groupIndex="113" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine displayName="Arrow right" groupIndex="113" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96572440584322" lon="11.05090505281763"/>
 				<Vertex lat="59.96569894388131" lon="11.05103234475385"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="66" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS">
+			<PaintedLine groupIndex="66" type="DEFAULT" trueAngle="ALL_POINTS">
 				<Vertex lat="59.96573796204071" lon="11.05050758566200"/>
 				<Vertex lat="59.96578517617492" lon="11.05040775385167"/>
 				<Vertex lat="59.96575846180582" lon="11.05053353399320"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="110" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS">
+			<PaintedLine groupIndex="110" type="DEFAULT" trueAngle="ALL_POINTS">
 				<Vertex lat="59.96578470913712" lon="11.05056504190156"/>
 				<Vertex lat="59.96583192327133" lon="11.05046521009123"/>
 				<Vertex lat="59.96580520890223" lon="11.05059099023276"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="97" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS">
+			<PaintedLine groupIndex="97" type="DEFAULT" trueAngle="ALL_POINTS">
 				<Vertex lat="59.96583633911118" lon="11.05062850775123"/>
 				<Vertex lat="59.96588355324540" lon="11.05052867594090"/>
 				<Vertex lat="59.96585683887630" lon="11.05065445608243"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="96" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS">
+			<PaintedLine groupIndex="96" type="DEFAULT" trueAngle="ALL_POINTS">
 				<Vertex lat="59.96588337316835" lon="11.05068595435707"/>
 				<Vertex lat="59.96593058730256" lon="11.05058612254673"/>
 				<Vertex lat="59.96590387293346" lon="11.05071190268827"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="27" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="27" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96638154818585" lon="11.04886855800687"/>
 				<Vertex lat="59.96621025995309" lon="11.04940840718837"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="28" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="28" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96661826162842" lon="11.04813872541236"/>
 				<Vertex lat="59.96646603279589" lon="11.04860832425459"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="26" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="26" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96685006364442" lon="11.04741485648326"/>
 				<Vertex lat="59.96670454151738" lon="11.04787000663945"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="25" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="25" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96708474404308" lon="11.04668853908490"/>
 				<Vertex lat="59.96694482027723" lon="11.04712286481655"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="155" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="155" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96723388526621" lon="11.04689612741221"/>
 				<Vertex lat="59.96717538652325" lon="11.04662448054526"/>
 				<Vertex lat="59.96718953404223" lon="11.04638735603998"/>
 				<Vertex lat="59.96728271477267" lon="11.04609500654347"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="24" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="24" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96732173169880" lon="11.04595196231187"/>
 				<Vertex lat="59.96717353771491" lon="11.04640851945571"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="154" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="154" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96806715715575" lon="11.04991177443512"/>
 				<Vertex lat="59.96783203927291" lon="11.04919270596484"/>
 				<Vertex lat="59.96760322686643" lon="11.04845116672374"/>
@@ -3568,13 +3568,13 @@
 				<Vertex lat="59.96759701520200" lon="11.04555308818820"/>
 				<Vertex lat="59.96723055839540" lon="11.04668855667110"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="153" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="153" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96764366860832" lon="11.04824896137958"/>
 				<Vertex lat="59.96761958566502" lon="11.04829960715118"/>
 				<Vertex lat="59.96760319419829" lon="11.04836629076019"/>
 				<Vertex lat="59.96760295032921" lon="11.04841203870760"/>
 				<Vertex lat="59.96760578960923" lon="11.04844448864939"/>
-				<Vertex lat="59.96761627377110" lon="11.04848560574302"/>
+				<Vertex lat="59.96761678784332" lon="11.04848407299377"/>
 			</PaintedLine>
 			<PaintedLine groupIndex="30" type="EDGE_LINE_SOLID" trueAngle="NONE">
 				<Vertex lat="59.96778612923555" lon="11.04451163940173"/>
@@ -3588,12 +3588,12 @@
 				<Vertex lat="59.96778612923555" lon="11.04451163940173"/>
 				<Vertex lat="59.96763342148427" lon="11.04499380140623"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="31" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="31" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96778612923555" lon="11.04451163940173"/>
 				<Vertex lat="59.96763342148427" lon="11.04499380140623"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="175" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.96777558492143" lon="11.04530020890980"/>
+			<PaintedLine groupIndex="175" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.96777849194839" lon="11.04530481952269"/>
 				<Vertex lat="59.96770143901181" lon="11.04513630194693"/>
 				<Vertex lat="59.96770189290198" lon="11.04482231510215"/>
 				<Vertex lat="59.96781722358622" lon="11.04443170449029"/>
@@ -3604,7 +3604,7 @@
 				<Vertex lat="59.96576540172100" lon="11.05030149221420"/>
 				<Vertex lat="59.97223388403650" lon="11.03024214506150"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="152" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="152" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96821685619953" lon="11.04638910150006"/>
 				<Vertex lat="59.96823650953008" lon="11.04644456247304"/>
 				<Vertex lat="59.96824397374711" lon="11.04650389008093"/>
@@ -3622,21 +3622,21 @@
 				<Vertex lat="59.96753422684147" lon="11.04817649267198"/>
 				<Vertex lat="59.96752374715411" lon="11.04813879656648"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="151" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.96792246620127" lon="11.04900595048147"/>
+			<PaintedLine groupIndex="151" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.96792231963757" lon="11.04900332139601"/>
 				<Vertex lat="59.96788981161171" lon="11.04903313490900"/>
 				<Vertex lat="59.96786743883132" lon="11.04907225150294"/>
 				<Vertex lat="59.96785535109722" lon="11.04912852369416"/>
 				<Vertex lat="59.96785153992715" lon="11.04919469735693"/>
 				<Vertex lat="59.96785645644822" lon="11.04925684764019"/>
-				<Vertex lat="59.96787872569941" lon="11.04933329242320"/>
+				<Vertex lat="59.96787831974127" lon="11.04933391742583"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="32" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="32" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96800940801390" lon="11.04381533758669"/>
 				<Vertex lat="59.96786469982276" lon="11.04426632521305"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="150" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.96799064023534" lon="11.04733945324021"/>
+			<PaintedLine groupIndex="150" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.96798945661391" lon="11.04733710335750"/>
 				<Vertex lat="59.96798295757760" lon="11.04736475998948"/>
 				<Vertex lat="59.96797989566367" lon="11.04739877444845"/>
 				<Vertex lat="59.96797968345942" lon="11.04747211508631"/>
@@ -3644,15 +3644,15 @@
 				<Vertex lat="59.96802052113567" lon="11.04762079686440"/>
 				<Vertex lat="59.96804951042694" lon="11.04767127169334"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="149" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.96800216812476" lon="11.04730295277642"/>
+			<PaintedLine groupIndex="149" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.96800121029477" lon="11.04730171505951"/>
 				<Vertex lat="59.96801849050730" lon="11.04725321287060"/>
 				<Vertex lat="59.96804229354828" lon="11.04722429902770"/>
 				<Vertex lat="59.96806638350252" lon="11.04723248164576"/>
 				<Vertex lat="59.96809812691200" lon="11.04727386019040"/>
 				<Vertex lat="59.96811302722057" lon="11.04731367822858"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="148" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="148" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96785696471407" lon="11.04774480075876"/>
 				<Vertex lat="59.96788333690229" lon="11.04766397669423"/>
 				<Vertex lat="59.96791810540602" lon="11.04761630128883"/>
@@ -3674,13 +3674,13 @@
 				<Vertex lat="59.96807078602129" lon="11.04715235283226"/>
 				<Vertex lat="59.96807632617856" lon="11.04710901742989"/>
 				<Vertex lat="59.96808289060293" lon="11.04706651095098"/>
-				<Vertex lat="59.96809331263677" lon="11.04703541963870"/>
+				<Vertex lat="59.96809319459783" lon="11.04703410526102"/>
 			</PaintedLine>
 			<PaintedLine groupIndex="267" type="HOLD_SHORT_FORWARD" trueAngle="NONE">
 				<Vertex lat="59.96812847823735" lon="11.04601888354792"/>
 				<Vertex lat="59.96806756740470" lon="11.04611005014858"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="22" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="22" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96823640061074" lon="11.04311204865927"/>
 				<Vertex lat="59.96810090515863" lon="11.04353453713300"/>
 			</PaintedLine>
@@ -3688,7 +3688,7 @@
 				<Vertex lat="59.96816941362498" lon="11.04866020541882"/>
 				<Vertex lat="59.96820010591664" lon="11.04877378987415"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="206" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="206" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96865968872310" lon="11.04756533336949"/>
 				<Vertex lat="59.96869468489212" lon="11.04765683368329"/>
 				<Vertex lat="59.96870266667714" lon="11.04774826193217"/>
@@ -3699,9 +3699,9 @@
 				<Vertex lat="59.96782171201551" lon="11.04906296684954"/>
 				<Vertex lat="59.96779202631711" lon="11.04902547643611"/>
 				<Vertex lat="59.96777810291465" lon="11.04900181828753"/>
-				<Vertex lat="59.96776140243174" lon="11.04896148713993"/>
+				<Vertex lat="59.96776041627766" lon="11.04896146776869"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="207" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="207" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96899251630884" lon="11.04770899254246"/>
 				<Vertex lat="59.96896404372680" lon="11.04764022350454"/>
 				<Vertex lat="59.96891774883134" lon="11.04761720852962"/>
@@ -3719,7 +3719,7 @@
 				<Vertex lat="59.96754298894533" lon="11.04527275483989"/>
 				<Vertex lat="59.96741731314746" lon="11.04567833352620"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="165" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="165" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96818357355682" lon="11.04678592197277"/>
 				<Vertex lat="59.96820921978699" lon="11.04671896739093"/>
 				<Vertex lat="59.96822955209670" lon="11.04668277988968"/>
@@ -3729,8 +3729,8 @@
 				<Vertex lat="59.96836218115722" lon="11.04678641579186"/>
 				<Vertex lat="59.96838517426750" lon="11.04684628255609"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="215" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.96819557184502" lon="11.04871474683923"/>
+			<PaintedLine groupIndex="215" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.96819574852820" lon="11.04870881440660"/>
 				<Vertex lat="59.96823615205768" lon="11.04866223502704"/>
 				<Vertex lat="59.96826536265009" lon="11.04865286815522"/>
 				<Vertex lat="59.96830083075308" lon="11.04866292779744"/>
@@ -3738,33 +3738,33 @@
 				<Vertex lat="59.96836376251423" lon="11.04874479831830"/>
 				<Vertex lat="59.96839541768458" lon="11.04882642796701"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="210" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.96839158473496" lon="11.04838756660184"/>
+			<PaintedLine groupIndex="210" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.96839345754655" lon="11.04838416707799"/>
 				<Vertex lat="59.96835471631056" lon="11.04845257331901"/>
 				<Vertex lat="59.96833164450428" lon="11.04851939112924"/>
 				<Vertex lat="59.96832854367555" lon="11.04858418294882"/>
 				<Vertex lat="59.96833814419852" lon="11.04866134355941"/>
-				<Vertex lat="59.96836391489577" lon="11.04874934556176"/>
-				<Vertex lat="59.96840209493897" lon="11.04884059512255"/>
+				<Vertex lat="59.96836388303848" lon="11.04874558706412"/>
+				<Vertex lat="59.96839864243384" lon="11.04883612780491"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="21" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="21" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96848445606228" lon="11.04234268186942"/>
 				<Vertex lat="59.96833307078782" lon="11.04281263711201"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="164" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.96843218596293" lon="11.04831526507233"/>
+			<PaintedLine groupIndex="164" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.96843149509736" lon="11.04831765917079"/>
 				<Vertex lat="59.96847415889531" lon="11.04824611211425"/>
 				<Vertex lat="59.96850029725605" lon="11.04823381614755"/>
 				<Vertex lat="59.96853582595017" lon="11.04824376107446"/>
 				<Vertex lat="59.96857031213749" lon="11.04825774445103"/>
-				<Vertex lat="59.96860910152574" lon="11.04830686009154"/>
-				<Vertex lat="59.96863885628360" lon="11.04838855476142"/>
+				<Vertex lat="59.96860659483645" lon="11.04830520058535"/>
+				<Vertex lat="59.96863830877957" lon="11.04839149041275"/>
 			</PaintedLine>
 			<PaintedLine groupIndex="163" type="SERVICE_DASHED" trueAngle="NONE">
 				<Vertex lat="59.96839902046920" lon="11.04883623948383"/>
 				<Vertex lat="59.96878889920661" lon="11.04993641447449"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="162" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="162" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96862830690466" lon="11.04796514050437"/>
 				<Vertex lat="59.96860960680218" lon="11.04800579659037"/>
 				<Vertex lat="59.96859384235932" lon="11.04806577069519"/>
@@ -3773,7 +3773,7 @@
 				<Vertex lat="59.96859474749584" lon="11.04827169348576"/>
 				<Vertex lat="59.96864133505346" lon="11.04840091077025"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="20" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="20" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96870052559339" lon="11.04166725969394"/>
 				<Vertex lat="59.96856182613814" lon="11.04210179033751"/>
 			</PaintedLine>
@@ -3781,7 +3781,7 @@
 				<Vertex lat="59.96863859280071" lon="11.04839157783138"/>
 				<Vertex lat="59.96898829666367" lon="11.04936555237335"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="19" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="19" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96894630663849" lon="11.04090882646254"/>
 				<Vertex lat="59.96880770722584" lon="11.04133848893355"/>
 			</PaintedLine>
@@ -3789,7 +3789,7 @@
 				<Vertex lat="59.97013606131080" lon="11.03770717978480"/>
 				<Vertex lat="59.96782064437870" lon="11.04485973715780"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="18" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="18" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96917579767490" lon="11.04019160995910"/>
 				<Vertex lat="59.96902983500716" lon="11.04064971785556"/>
 			</PaintedLine>
@@ -3797,27 +3797,27 @@
 				<Vertex lat="59.96899234863240" lon="11.04770632086752"/>
 				<Vertex lat="59.96941070792895" lon="11.04885644930532"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="17" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="17" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96941524283346" lon="11.03945756448389"/>
 				<Vertex lat="59.96926288797695" lon="11.03992395729309"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="33" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="33" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96964770842816" lon="11.03874121260204"/>
 				<Vertex lat="59.96950131182534" lon="11.03919178151545"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="34" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="34" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.96987502119229" lon="11.03803486852616"/>
 				<Vertex lat="59.96973020009955" lon="11.03848774097171"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="16" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="16" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97009955109225" lon="11.03734615587739"/>
 				<Vertex lat="59.96996656769058" lon="11.03775780019354"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="35" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="35" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97034250777408" lon="11.03658874081325"/>
 				<Vertex lat="59.97019745114684" lon="11.03704047663917"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="15" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="15" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97059832940800" lon="11.03579471939278"/>
 				<Vertex lat="59.97043329727745" lon="11.03630631053584"/>
 			</PaintedLine>
@@ -3857,15 +3857,15 @@
 				<Vertex lat="59.97084430500698" lon="11.03884179479842"/>
 				<Vertex lat="59.97072647028912" lon="11.03869650745100"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="14" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="14" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97104165123155" lon="11.03441528833399"/>
 				<Vertex lat="59.97090104097791" lon="11.03485233142467"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="36" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="36" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97127356024158" lon="11.03369421206361"/>
 				<Vertex lat="59.97112816612322" lon="11.03414860881670"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="37" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="37" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97150526888254" lon="11.03297027594386"/>
 				<Vertex lat="59.97136112205979" lon="11.03342461077516"/>
 			</PaintedLine>
@@ -3874,7 +3874,7 @@
 				<Vertex lat="59.97244711965320" lon="11.03052914142610"/>
 				<Vertex lat="59.97032079845670" lon="11.03713274002080"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="13" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="13" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97174480689092" lon="11.03222790857958"/>
 				<Vertex lat="59.97159939097428" lon="11.03268106974965"/>
 			</PaintedLine>
@@ -3882,51 +3882,51 @@
 				<Vertex lat="59.97185355481242" lon="11.02939668472474"/>
 				<Vertex lat="59.97178587155614" lon="11.02961090880846"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="12" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="12" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97200606587234" lon="11.03141533109088"/>
 				<Vertex lat="59.97183116700300" lon="11.03196296063080"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="134" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.97223041431223" lon="11.03005110267918"/>
+			<PaintedLine groupIndex="134" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.97223153945893" lon="11.03005126780191"/>
 				<Vertex lat="59.97229842518060" lon="11.03013775269962"/>
 				<Vertex lat="59.97232271367530" lon="11.03020619836706"/>
 				<Vertex lat="59.97233035432681" lon="11.03027845996445"/>
 				<Vertex lat="59.97232181491626" lon="11.03037339828347"/>
 				<Vertex lat="59.97218054228884" lon="11.03081584394000"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="133" type="EDGE_LINE_SOLID" trueAngle="NONE">
-				<Vertex lat="59.97250987279936" lon="11.03041059679538"/>
+			<PaintedLine groupIndex="133" type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="59.97250936754591" lon="11.03041198973573"/>
 				<Vertex lat="59.97245404814541" lon="11.03034374537577"/>
 				<Vertex lat="59.97242162261258" lon="11.03032865643670"/>
 				<Vertex lat="59.97238388788890" lon="11.03033675989740"/>
 				<Vertex lat="59.97233860229694" lon="11.03040167160100"/>
 				<Vertex lat="59.97219570652829" lon="11.03083659814849"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="98" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="98" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97248495414753" lon="11.02994356968468"/>
 				<Vertex lat="59.97250598369736" lon="11.02981106610866"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="108" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="108" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97248435892151" lon="11.02994546614205"/>
 				<Vertex lat="59.97253351623291" lon="11.02984455169880"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="109" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="109" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97261812601414" lon="11.02951754713417"/>
 				<Vertex lat="59.97248427860946" lon="11.02994409943705"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="100" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="100" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97272289039785" lon="11.02918126176446"/>
 				<Vertex lat="59.97274915372911" lon="11.02905151003187"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="107" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="107" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97272353792975" lon="11.02918206906869"/>
 				<Vertex lat="59.97277107781311" lon="11.02908240699360"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="99" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="99" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97286404671127" lon="11.02874148866722"/>
 				<Vertex lat="59.97272361831523" lon="11.02918037889270"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="135" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="135" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97332227288610" lon="11.03300551103589"/>
 				<Vertex lat="59.97337179586624" lon="11.03195421881210"/>
 				<Vertex lat="59.97335788026375" lon="11.03163252736337"/>
@@ -3946,41 +3946,41 @@
 				<Vertex lat="59.97350558638570" lon="11.02724120020870"/>
 				<Vertex lat="59.97255776077510" lon="11.03019386529920"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="102" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="102" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97296815724117" lon="11.02842409919423"/>
 				<Vertex lat="59.97299043091254" lon="11.02829982717074"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="101" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="101" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97296856339597" lon="11.02842280906054"/>
 				<Vertex lat="59.97301650629998" lon="11.02833046198693"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="106" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="106" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97310644503665" lon="11.02800645499446"/>
 				<Vertex lat="59.97296815728971" lon="11.02842409955047"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="105" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="105" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97320730954102" lon="11.02768437020422"/>
 				<Vertex lat="59.97323496539459" lon="11.02754785489462"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="104" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="104" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97320810410542" lon="11.02768787132197"/>
 				<Vertex lat="59.97325841866495" lon="11.02757578197853"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="103" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="103" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97320821712569" lon="11.02768550265090"/>
 				<Vertex lat="59.97334757239946" lon="11.02725536365736"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="158" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="158" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97342705226542" lon="11.02652188215793"/>
 				<Vertex lat="59.97346977784199" lon="11.02686426966994"/>
 				<Vertex lat="59.97365930584416" lon="11.02678351482650"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="159" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="159" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97350023471985" lon="11.02629498127036"/>
 				<Vertex lat="59.97354296029642" lon="11.02663736878237"/>
 				<Vertex lat="59.97373248829859" lon="11.02655661393893"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="157" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine groupIndex="157" type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="59.97357827970045" lon="11.02603963725653"/>
 				<Vertex lat="59.97362100527702" lon="11.02638202476853"/>
 				<Vertex lat="59.97381053327919" lon="11.02630126992510"/>
